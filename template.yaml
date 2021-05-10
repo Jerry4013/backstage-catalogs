@@ -3,7 +3,7 @@ kind: Template
 # some metadata about the template itself
 metadata:
   name: v1beta2-demo-2
-  title: Test Action template
+  title: Test Action template 2
   description: scaffolder v1beta2 template demo
 spec:
   owner: user:guest
